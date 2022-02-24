@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f7a42627.css",
+    "main.js": "/static/js/main.20e546d1.js",
+    "static/media/workshoper.png": "/static/media/workshoper.8ace8c08f61e5df3eec7.png",
+    "static/media/puzzler.png": "/static/media/puzzler.843606614a5ba333f356.png",
+    "static/media/artist.png": "/static/media/artist.eea20f7d6de998075057.png",
+    "static/media/camper.png": "/static/media/camper.dba659afe9505aa31d46.png",
+    "static/media/partner.png": "/static/media/partner.315908f6f66f979d18e8.png",
+    "static/media/buidler.png": "/static/media/buidler.afef4528b4d50e49bd95.png",
+    "static/media/noncegeeker.png": "/static/media/noncegeeker.3a2a6e8e9103f9738973.png",
+    "static/media/researcher.png": "/static/media/researcher.f0fb2367fde235ca59f7.png",
+    "static/media/learner.png": "/static/media/learner.acff609870d5e4e94d67.png",
+    "static/media/writer.png": "/static/media/writer.e2ae1d8586406c96cb6d.png",
+    "index.html": "/index.html",
+  },
+  "entrypoints": [
+    "static/css/main.f7a42627.css",
+    "static/js/main.20e546d1.js"
+  ]
+}
